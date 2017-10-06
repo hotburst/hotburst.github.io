@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "kevin.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 19,
+    "uniqCompNum": 23,
     "versionPublish": "4.3.2",
     "theme": {
       "name": "mobirise4",
@@ -37,10 +37,10 @@
     }
   },
   "pages": {
-    "index.html": {
+    "kevin.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "kevin的網頁",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
