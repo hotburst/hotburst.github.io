@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "kevin.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 23,
     "versionPublish": "4.3.2",
@@ -37,7 +37,7 @@
     }
   },
   "pages": {
-    "kevin.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "kevin的網頁",
